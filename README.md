@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
-<h3 align="center">A Full Stack Developer with 2 years of learning and training and 7 years of experience in the software industry and Websites development, I have strong technical skills in developing websites and APIs using PHP Pure Or Frameworks such as (Laravel, Codeigniter, YII, Phalcon, etc…) and CMSs such as (Magento, WordPress, Joomla, Ghost, OpenCart, etc...) and other opensource technologies, Also have a strong knowledge with Mobile App Development Cycle and producing APIs for them in all fields specially Ecommerce Apps and websites. Which includus also working with Third-parties, APIs and online payments and gateways.</h3>
+<h3 align="left">A Full Stack Developer with 7 years of experience in the software industry and Websites development and 3 years of learning and training, I have strong technical skills in developing websites and APIs using PHP Pure Or Frameworks such as (Laravel, Codeigniter, YII, Phalcon, etc…) and CMSs such as (Magento, WordPress, Joomla, Ghost, OpenCart, etc...) and other opensource technologies, Also have a strong knowledge with Mobile App Development Cycle and producing APIs for them in all fields specially Ecommerce Apps and websites.
+
+Which includus also working with Third-parties, APIs and online payments and gateways.
+
+Good Skills in setting up the Working environment and configure Linux servers and dealing with Cpanels and accounts and managing it.
+
+Have a strong skills in Research and Problem Solving.
+
+Also got some knowledge in mobile development using Dart and Flutter cross-platform framework and publish apps to stores.
+
+Worked in many projects for Global and Local clients, Have high skills in communications to the client and team and eager to improve it.</h3>
 
 - 🔭 I’m currently working on **...**
 
